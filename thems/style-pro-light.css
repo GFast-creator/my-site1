@@ -134,9 +134,8 @@ body {
 }
 
 .user-image img {
-  width: 688px;
-  height: 400px;
-  margin-left: 16px;
+  height: 200px;
+  margin-left: 30px;
   object-fit: cover;
 }
 
